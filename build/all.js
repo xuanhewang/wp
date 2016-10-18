@@ -1,0 +1,1 @@
+function add(a,b){var d=a+b;return d}var a=1;console.log(add(1,2));var b=1,c=1,d=1,e=1,f=1,g=1,aaaa=111234,aaaaaa=111112,bbbb="fsjk";
